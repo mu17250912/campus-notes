@@ -20,7 +20,7 @@ A prebuilt image of this exact source is published on Docker Hub. This is the qu
 the application working, and it is what the course uses for its first Docker exercise:
 
 ```bash
-docker run --rm -p 3000:3000 -e SESSION_SECRET=lab-only sunkic/campus-notes:seed
+To be set after learning containerization 
 ```
 
 Then open `http://localhost:3000`.
